@@ -4,4 +4,7 @@
 #Prompt the user for a number to start counting from.
 count = int(input('Start from number: '))
 
+#Prompt the user for a number to stop counting on.
+result = int(input('Stop at number: '))
+
 
