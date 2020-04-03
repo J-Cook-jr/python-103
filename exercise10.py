@@ -8,6 +8,9 @@ r = 0
 while r < row:
 
     # This block defines the second variable as a default and tells the program to loop through the variable as long as its less than row.
-    j = 0
-    while j < row:
-        
+    l = 0
+    while l < row:
+
+        # This block will run the second variable, adding it to an integer and printing out the * characters that will make up each row of the square.
+        l = l + 1
+        print('*' , end = '')
