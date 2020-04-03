@@ -13,7 +13,7 @@ while r < row:
 
         # This block will run the second variable, adding it to an integer and printing out the * characters that will make up each row of the square.
         l = l + 1
-        print('*' , end = '')
+        print('*' , end= '')
 
 # This last block of code loops back to the first default variable, completing each row and column, ultimately  completing the square.
     r = r + 1
