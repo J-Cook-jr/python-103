@@ -15,7 +15,7 @@ while r < row:
         l = l + 1
         print(' * ' , end = " ")
 
-
+#The following two lines print out the next column of '*' characters.
     r = r + 1
     print( " " )
         
