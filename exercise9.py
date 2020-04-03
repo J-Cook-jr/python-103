@@ -7,5 +7,23 @@ r = 0
 #This line tells the computer to loop through the r variable as long as it's less than row.
 while r < row:
 
+#Define another variable: This variable will create your rows. This is also defined as a default variable.
+    l = 0
+
+#This line tells the computer to loop through the l variable as long as it's less than row and then it prints the * character.
+    while l < row:
+        l = l + 1
+        print(' * ' , end = " ")
+
+
+    r = r + 1
+    print( " " )
+        
+
+
+
+
+
+
 
 
