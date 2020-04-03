@@ -6,3 +6,8 @@ r = 0
 
 # The following line of code tells the program to loop through variable r as long as it's less than row.
 while r < row:
+
+    # This block defines the second variable as a default and tells the program to loop through the variable as long as its less than row.
+    j = 0
+    while j < row:
+        
